@@ -48,6 +48,13 @@ def update(base: dict) -> None:
     with open("op3.bin", "wb") as file:
         dump(base, file=file)
 ```
+В данной теме мне очень помогли разобраться статьи:
+
+[Шпаргалка по Markdown](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c#links)
+
+[Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+
+[Язык разметки Markdown](https://doka.guide/tools/markdown/)
 
 
 
