@@ -56,5 +56,6 @@ def update(base: dict) -> None:
 
 [Язык разметки Markdown](https://doka.guide/tools/markdown/)
 
+![Какое-то изображение](https://i.pinimg.com/564x/fe/da/5a/feda5a00a13e5d2dbb5b17af5d149062.jpg)
 
 
